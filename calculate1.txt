@@ -1,0 +1,19 @@
+push 3
+push 2
+mul
+push 1
+mul
+push 4
+push 2
+mul
+add
+push 5
+push 2
+sub
+push 5
+push 2
+sub
+mul
+sub
+print
+stop
